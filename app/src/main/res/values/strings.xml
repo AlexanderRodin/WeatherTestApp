@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApi_Test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hours_blank_fragment_text">Empty</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="days_blank_fragment_text">DAYS</string>
+</resources>
